@@ -1,0 +1,32 @@
+#title-container {
+	text-align: center;
+	width: 100%;
+}
+
+#img-div {
+	width: 100%;	
+	text-align: center;
+}
+
+#image {
+	max-width: 75%;
+}
+
+#tribute-info {
+	width: 100%;
+	font-size: 20px;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#tribute-link {
+text-align: center;
+font-size:  30px;
+width: 100%;
+font-weight: bold;
+
+}
+#main {
+	background-color: #bee0fd;
+}
